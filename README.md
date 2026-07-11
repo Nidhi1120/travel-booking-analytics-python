@@ -63,6 +63,41 @@ Hotel Booking Demand Dataset
 - Does lead time affect cancellations?
 
 ---
+## 📷 Project Visualizations
+
+### Bookings by Hotel Type
+
+![Hotel Type](images/hotel_type.png)
+
+---
+
+### Monthly Bookings
+
+![Bookings](images/bookings_month.png)
+
+---
+
+### Customer Cancellations
+
+![Cancellation](images/cancellations.png)
+
+---
+
+### Market Segments
+
+![Market](images/market_segment.png)
+
+---
+
+### Top Countries
+
+![Countries](images/countries.png)
+
+---
+
+### Lead Time vs Cancellation
+
+![Lead Time](images/lead_time.png)
 
 ## 🔍 Key Findings
 
