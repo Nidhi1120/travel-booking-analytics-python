@@ -1,3 +1,13 @@
+## 📊 Key Performance Indicators (KPIs)
+
+- Total Bookings
+- Cancellation Rate
+- Average Daily Rate (ADR)
+- Average Stay Duration
+- Total Guests
+- Top Booking Month
+- Top Market Segment
+  
 # ✈️ Travel Booking Analytics using Python
 
 ## 📌 Project Overview
